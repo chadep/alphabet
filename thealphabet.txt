@@ -21,3 +21,10 @@ Numbers
 9
 10
 11
+Animals
+Dog
+Cat
+Fish
+Turtle
+Monkey
+Snal
